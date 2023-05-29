@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Authorization&apos; to &apos;StepByStep&apos;&#x0D;&#x0A;- Original project: &apos;oAuth2.0&apos;&#x0D;&#x0A;- Original element: &apos;Authorization&apos;&#x0D;&#x0A;- Renamed element: &apos;StepByStep&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Authorization&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Authorization.java[Authorization" matchStrategy="1" name="StepByStep" qualified="false" references="true" similarDeclarations="false" stamp="1593069180768" textual="false" version="1.0"/>
+</session>

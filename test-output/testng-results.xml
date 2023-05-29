@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5470" started-at="2020-06-23T15:31:14Z" finished-at="2020-06-23T15:31:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5470" started-at="2020-06-23T15:31:14Z" finished-at="2020-06-23T15:31:20Z">
+      <class name="DataProviderAddBody">
+        <test-method status="PASS" signature="postLibraryAPI(java.lang.String, java.lang.String)[pri:0, instance:DataProviderAddBody@5b0abc94]" name="postLibraryAPI" duration-ms="4702" started-at="2020-06-23T21:01:14Z" data-provider="getData" finished-at="2020-06-23T21:01:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dark17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postLibraryAPI -->
+        <test-method status="PASS" signature="postLibraryAPI(java.lang.String, java.lang.String)[pri:0, instance:DataProviderAddBody@5b0abc94]" name="postLibraryAPI" duration-ms="424" started-at="2020-06-23T21:01:19Z" data-provider="getData" finished-at="2020-06-23T21:01:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dark18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postLibraryAPI -->
+        <test-method status="PASS" signature="postLibraryAPI(java.lang.String, java.lang.String)[pri:0, instance:DataProviderAddBody@5b0abc94]" name="postLibraryAPI" duration-ms="317" started-at="2020-06-23T21:01:20Z" data-provider="getData" finished-at="2020-06-23T21:01:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dark19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postLibraryAPI -->
+      </class> <!-- DataProviderAddBody -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
